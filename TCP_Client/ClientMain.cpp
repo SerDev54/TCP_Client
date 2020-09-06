@@ -5,6 +5,7 @@
 
 //#define SERVERADDR "192.168.0.100"
 #define SERVERADDR "127.0.0.1"
+//just test string for github
 
 
 
