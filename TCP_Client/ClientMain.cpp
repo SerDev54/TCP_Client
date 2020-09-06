@@ -3,9 +3,12 @@
 
 #define PORT 777
 
-//#define SERVERADDR "192.168.0.100"
+//#define SERVERADDR "192.168.0.100"  
 #define SERVERADDR "127.0.0.1"
 //just test string for github
+//test string 
+//second test tstring
+//3-rd test tstring
 
 
 
