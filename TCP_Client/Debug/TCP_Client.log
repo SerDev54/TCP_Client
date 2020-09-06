@@ -1,5 +1,0 @@
-﻿  ClientMain.cpp
-C:\Users\Sergey\source\repos\TCP_Client\TCP_Client\ClientMain.cpp(41,11): warning C4101: hst: неиспользованная локальная переменная
-  tcpClient.cpp
-  Создание кода...
-  TCP_Client.vcxproj -> C:\Users\Sergey\source\repos\TCP_Client\Debug\TCP_Client.exe
